@@ -1,0 +1,17 @@
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\CaesarCipherTests.dll
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\CaesarCipherTests.pdb
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\CaesarCipher.exe
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\CaesarCipher.pdb
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\CaesarCipher.exe.config
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\obj\Debug\CaesarCipherTests.csprojAssemblyReference.cache
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\obj\Debug\CaesarCipherTests.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\obj\Debug\CaesarCipherTests.csproj.CopyComplete
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\obj\Debug\CaesarCipherTests.dll
+C:\Users\IT\source\repos\CaesarCipher\CaesarCipherTests\obj\Debug\CaesarCipherTests.pdb
