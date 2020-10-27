@@ -106,8 +106,8 @@ namespace CaesarCipher
             string decryptedMessage = Decipher(message2, key2);
             Console.WriteLine("Decrypted message: " + decryptedMessage);
 
-            Console.WriteLine("(Press 'Enter' to close program)");
-            Console.ReadLine();
+            Console.WriteLine("(Press any key to close program)");
+            Console.ReadKey();
 
 
         }

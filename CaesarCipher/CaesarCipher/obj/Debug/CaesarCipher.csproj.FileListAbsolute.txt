@@ -5,3 +5,10 @@ C:\Users\IT\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj
 C:\Users\IT\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe
 C:\Users\IT\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.pdb
 C:\Users\IT\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\IT\Documents\GitHub\CaesarCipher\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe.config
+C:\Users\IT\Documents\GitHub\CaesarCipher\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe
+C:\Users\IT\Documents\GitHub\CaesarCipher\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.pdb
+C:\Users\IT\Documents\GitHub\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\IT\Documents\GitHub\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\GitHub\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe
+C:\Users\IT\Documents\GitHub\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.pdb
