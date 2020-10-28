@@ -11,14 +11,7 @@ namespace CaesarCipher.Tests
     [TestClass()]
     public class CSCipherTests
     {
-        [TestMethod()]
-        public void CipherTestUpperLetter()
-        {
-            char upperLetter = 'A';
-            int key = 1;
-            char rezult = CSCipher.Cipher(upperLetter, key);
-            Assert.AreEqual('B', rezult);
-        }
+        
 
         [TestMethod()]
         public void CipherTestLowerLetter()
@@ -27,6 +20,15 @@ namespace CaesarCipher.Tests
             int key = 1;
             char rezult = CSCipher.Cipher(upperLetter, key);
             Assert.AreEqual('b', rezult);
+        }
+
+        [TestMethod()]
+        public void CipherTestUpperLetter()
+        {
+            char upperLetter = 'A';
+            int key = 1;
+            char rezult = CSCipher.Cipher(upperLetter, key);
+            Assert.AreEqual('B', rezult);
         }
 
         [TestMethod()]
